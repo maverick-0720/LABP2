@@ -1,0 +1,10 @@
+C:\Users\RogerRetanaMcNally\Desktop\CENFOTEC\VI Cuatrimestre\Diseño y construcción de componentes\Laboratorios\Resoluciones\Laboratorio-1\Parte-2\ControlWindows\bin\Debug\ControlWindows.exe.config
+C:\Users\RogerRetanaMcNally\Desktop\CENFOTEC\VI Cuatrimestre\Diseño y construcción de componentes\Laboratorios\Resoluciones\Laboratorio-1\Parte-2\ControlWindows\bin\Debug\ControlWindows.exe
+C:\Users\RogerRetanaMcNally\Desktop\CENFOTEC\VI Cuatrimestre\Diseño y construcción de componentes\Laboratorios\Resoluciones\Laboratorio-1\Parte-2\ControlWindows\bin\Debug\ControlWindows.pdb
+C:\Users\RogerRetanaMcNally\Desktop\CENFOTEC\VI Cuatrimestre\Diseño y construcción de componentes\Laboratorios\Resoluciones\Laboratorio-1\Parte-2\ControlWindows\obj\Debug\ControlWindows.csprojAssemblyReference.cache
+C:\Users\RogerRetanaMcNally\Desktop\CENFOTEC\VI Cuatrimestre\Diseño y construcción de componentes\Laboratorios\Resoluciones\Laboratorio-1\Parte-2\ControlWindows\obj\Debug\ControlWindows.Form1.resources
+C:\Users\RogerRetanaMcNally\Desktop\CENFOTEC\VI Cuatrimestre\Diseño y construcción de componentes\Laboratorios\Resoluciones\Laboratorio-1\Parte-2\ControlWindows\obj\Debug\ControlWindows.Properties.Resources.resources
+C:\Users\RogerRetanaMcNally\Desktop\CENFOTEC\VI Cuatrimestre\Diseño y construcción de componentes\Laboratorios\Resoluciones\Laboratorio-1\Parte-2\ControlWindows\obj\Debug\ControlWindows.csproj.GenerateResource.cache
+C:\Users\RogerRetanaMcNally\Desktop\CENFOTEC\VI Cuatrimestre\Diseño y construcción de componentes\Laboratorios\Resoluciones\Laboratorio-1\Parte-2\ControlWindows\obj\Debug\ControlWindows.csproj.CoreCompileInputs.cache
+C:\Users\RogerRetanaMcNally\Desktop\CENFOTEC\VI Cuatrimestre\Diseño y construcción de componentes\Laboratorios\Resoluciones\Laboratorio-1\Parte-2\ControlWindows\obj\Debug\ControlWindows.exe
+C:\Users\RogerRetanaMcNally\Desktop\CENFOTEC\VI Cuatrimestre\Diseño y construcción de componentes\Laboratorios\Resoluciones\Laboratorio-1\Parte-2\ControlWindows\obj\Debug\ControlWindows.pdb
